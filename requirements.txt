@@ -1,0 +1,17 @@
+asyncpg==0.30.0
+bcrypt==4.3.0
+cffi==1.17.1
+cryptography==44.0.2
+email-validator==2.2.0
+fastapi==0.115.11
+httpie==3.2.4
+httpx==0.28.1
+idna==3.10
+jwt==1.3.1
+pydantic-core==2.27.2
+pycparser==2.22
+python-jose==3.4.0
+psycopg2-binary==2.9.10
+requests==2.32.3
+SQLAlchemy==2.0.38
+
